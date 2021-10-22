@@ -7,9 +7,8 @@ sections:
 - type: heading
   label: Guilde Alpha
 - type: document
-  path: ''
+  path: src/pages/*.md
   label: Home
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
