@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Guilde Alpha
+- type: document
+  path: ''
+  label: Home
+  match: "**/*"
 - type: heading
   label: Content
 - type: directory
